@@ -14,6 +14,7 @@ I find this a good arranglement as when you have both of the bottom lights on, o
 I used adhesive backed 24 V LED strips that are 4 LEDs wide and super bright(38.4 W/m).
 The top two light use a 50 mm strip each and the bottom two use a 100 mm strip.
 This provides more than enough light to see how your print is going.
+
 ![Overview](https://github.com/mjseabright/prusa_i3_lights/blob/master/photos/overview.jpg)
 ![Top light detail shot](https://github.com/mjseabright/prusa_i3_lights/blob/master/photos/top.jpg)
 ![Bed lights](https://github.com/mjseabright/prusa_i3_lights/blob/master/photos/bed.jpg)
